@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "superagent": "^4.0.0-beta.5",
+    "superagent-charset": "^1.2.0"
+  }
+}
